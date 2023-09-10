@@ -5,5 +5,11 @@
     "source.fixAll": true,
     "source.organizeImports": true,
     "source.sortMembers": true
-  }
+  },
+  "cSpell.words": [
+    "clsx",
+    "headlessui",
+    "heroicons",
+    "tailwindcss"
+  ]
 }
